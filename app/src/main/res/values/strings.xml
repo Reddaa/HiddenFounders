@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Hidden Founders Coding Challenge</string>
+    <string name="title">Top starred git repos</string>
+    <string name="cannot_open_link">Cannot open link</string>
+    <string name="server_error">Server error, check your connection</string>
+    <string name="business_layer_error">We couldn\'t fetch more data</string>
+    <string name="top_starred_repo">Top starred github repos</string>
+    <string name="scroll_for_more">You can scroll for more, clicking on repo takes you to the github page</string>
 </resources>
